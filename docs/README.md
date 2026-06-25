@@ -22,7 +22,7 @@ Environment variables read by this plugin (extracted from the source — see the
 
 | Env var |
 |---|
-| `AGNO_BASE_URL"` |
+| `AGNO_BASE_URL` |
 
 ## Usage
 
